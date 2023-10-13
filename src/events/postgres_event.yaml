@@ -1,0 +1,2 @@
+"http.get./postgrestest":
+  fn: postgres_function

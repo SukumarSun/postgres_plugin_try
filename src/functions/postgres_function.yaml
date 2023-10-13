@@ -1,0 +1,6 @@
+id: postgres_function
+tasks:
+  - id: first_task
+    fn: datasource.postgres
+    args: 
+      name: "hi postgres"
